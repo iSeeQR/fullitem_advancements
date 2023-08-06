@@ -121,7 +121,7 @@ __De otra manera sería imposible crear este proyecto. Es un proceso Java que ge
 Gracias al proceso Java creado se procura un **soporte y mantenimiento** del datapack con el paso del tiempo. Incluyendo versiones futuras.
 
 
-## RoapMap
+## RoadMap
 - **Añadir items que faltan:** Items como los cuernos, cuadros, flechas encantadas, libros encantados y pociones deben distinguirse en logros individuales. Estos items están recogidos en la pestaña "honestidad" de los logros.
 - **Organización de los logros:** Hay que reestructurar las items.
 - **Goals:** Para items como el banner de creeper, la mena negra de esmeralda, cabeza de piglin, etc hay que poner un Goal legendario
