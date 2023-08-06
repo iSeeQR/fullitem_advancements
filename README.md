@@ -28,7 +28,7 @@ En la siguiente imagen se pueden ver los texto que componen el principio y el fi
 
 ![](imagenes/ultimostextos.png)
 
-El juego esta dividido en las siguientes secciones:
+Los items están dividido en las siguientes secciones:
 
 Construcción, decoración, redstone, transporte, objetos varios, alimentación, herramientas, combate, pociones y honestidad.
 
