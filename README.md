@@ -3,12 +3,14 @@ Consigue todos los items de Minecraft y visualízalo con este datapack. Un logro
 
 Un reto con muchas aventuras.
 
+
 ## Descripción
 Este datapack posee las funciones necesarias para tener un Advancements por cada item de Minecraft. Incluye conteo y visualización de los items conseguidos y de los restantes. El total de estos logros en la primera versión son; **1148 items**.
 
-Se puede jugar en multijugador. 
+Se puede jugar en multijugador y sigleplayer. 
 
 ![](imagenes/boton_l.jpg)
+
 
 ## Descargas
 - Datadack en github [Descargar pulsando en download](https://github.com/iSeeQR/fullitem_advancements/blob/main/descargas/fullitem_advancements_1_20.zip)
@@ -17,6 +19,7 @@ Se puede jugar en multijugador.
   
 El mundo de MapJamRichMaps es para testeo. El **datapack** se ha creado **para mundos vanilla**. No puedo asegurar que se puedan conseguir todos los items en este mundo. Pero si podrás testearlo.
   
+
 ## Descripción general
 El jugador iniciará el mundo con el datapack incluido y ya estará listo para comenzar la aventura. 
 
@@ -34,6 +37,7 @@ Construcción, decoración, redstone, transporte, objetos varios, alimentación,
 
 ![](imagenes/secciones.jpg)
 
+
 ## Recompensa
 ¡Si consigues todos los items tendrás un buen premio!
 
@@ -42,10 +46,12 @@ Construcción, decoración, redstone, transporte, objetos varios, alimentación,
 La persona que a dedicado el tiempo al estudio, búsqueda y crafteo de cada item. Querrá un Debug Stick para admirar fácilmente la preciada colección de su museo.
 
 
+
 ## Otras ventajas 
 Si quieres conseguir el logro de comer todos los alimentos. Este datapack puede ayudarte con esa tarea.
 
 ![](imagenes/boton_l_alimentacion.jpg)
+
 
 ## Descripción técnica
 Cada item tiene su logro, el cual se define como en el siguiente ejemplo
@@ -96,17 +102,21 @@ Al conseguir este logro se dispara la lectura por ejemplo de la siguiente funci�
 El conteo de items se hace mediante scoreborad dummy
 
 
+
 ## Generación datapack.
 El datapack se genera mediante un proceso en Java que crea todos los directorios y ficheros. En dicho código se encuentran los comandos que serán escritos en los ficheros del datapack. 
 
 __De otra manera sería imposible crear este proyecto. Es un proceso Java que genera código para Minecraft Java.__
 
+
 ## Testeo
 1. Se ha testeado el logro de cada item
 2. Se ha testeado la aparición de la recompensa al conseguir todos los items
 
+
 ## Mantenimiento y soporte
-Se ha generado un proceso en Java que genera toda la estructura y ficheros del datapack. Con esto se procura un **soporte y mantenimiento** del datapack con el paso del tiempo. Incluyendo versiones futuras.
+Gracias al proceso Java creado se procura un **soporte y mantenimiento** del datapack con el paso del tiempo. Incluyendo versiones futuras.
+
 
 ## RoapMap
 - **Añadir items que faltan:** Items como los cuernos, cuadros, flechas encantadas, libros encantados y pociones deben distinguirse en logros individuales. Estos items están recogidos en la pestaña "honestidad" de los logros.
@@ -116,10 +126,12 @@ Se ha generado un proceso en Java que genera toda la estructura y ficheros del d
 
 
 
+
 ## Descripción concurso
 [Bases de concurso](https://www.patreon.com/posts/86402247)
 - Una frase de qué es lo que más te gusta de lo que has creado:
 
+    Satisfacer una necesidad de algunos jugadores. Incluido yo. En mi mundo juego a conseguir todos los items. Crear este datapack es lo que más me ha gustado.
     Estudiar, aprender y trastear con /execute
   
 - Una frase de qué añadirías si tuvieses quince días más.
