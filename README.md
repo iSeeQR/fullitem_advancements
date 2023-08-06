@@ -112,11 +112,6 @@ El datapack se genera mediante un proceso en Java que crea todos los directorios
 __De otra manera sería imposible crear este proyecto. Es un proceso Java que genera código para Minecraft Java.__
 
 
-## Testeo
-1. Se ha testeado el logro de cada ítem
-2. Se ha testeado la aparición de la recompensa al conseguir todos los ítems
-
-
 ## Mantenimiento y soporte
 Gracias al proceso Java creado se procura un **soporte y mantenimiento** del datapack con el paso del tiempo. Incluyendo versiones futuras.
 
@@ -128,6 +123,10 @@ Gracias al proceso Java creado se procura un **soporte y mantenimiento** del dat
 - **Añadir el banner ominous:** Estudiar como incluirlo en un logro.
 
 
+## Testeo
+1. Se ha testeado el logro de cada ítem
+2. Se ha testeado la aparición de la recompensa al conseguir todos los ítems
+
 
 
 ## Descripción concurso
@@ -136,7 +135,8 @@ Map Jam Hispana: Comandos Creativos 2023
 [Bases de concurso](https://www.patreon.com/posts/86402247)
 - Una frase de qué es lo que más te gusta de lo que has creado:
 
-    Satisfacer una necesidad de algunos jugadores. Incluido yo. En mi mundo juego a conseguir todos los ítems. Crear este datapack es lo que más me ha gustado.
+    Satisfacer una necesidad de algunos jugadores. Incluido yo. En mi mundo survival juego a conseguir todos los ítems. Crear este datapack es lo que más me ha gustado.
+  
     Estudiar, aprender y trastear con /execute
   
 - Una frase de qué añadirías si tuvieses quince días más.
