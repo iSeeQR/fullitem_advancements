@@ -147,7 +147,7 @@ Map Jam Hispana: Comandos Creativos 2023
 ## Como instalar un datapack
 1. Una vez descargado el Datapack
 2. Ir al directorio saves de Minecraft. Puedes ir a esta carpeta pulsando sobre un mundo y en 'Editar' pulsar en 'Abrir carpeta del mundo'
-3. En esta carpeta hay que incluir el Datapack dentro de la carpeta 'datapacks'. No olvides descomprimir el fichero fullitem_advancements_1_20.zip
+3. En esta carpeta hay que incluir el Datapack dentro de la carpeta 'datapacks'. No olvides descomprimir el zip 'fullitem_advancements_1_20.zip'
 4. Inicia el mundo y todo estará listo para vivir nuevas aventuras.
 
 
