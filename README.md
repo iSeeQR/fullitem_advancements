@@ -150,6 +150,11 @@ Map Jam Hispana: Comandos Creativos 2023
 3. En esta carpeta hay que incluir el Datapack dentro de la carpeta 'datapacks'. No olvides descomprimir el fichero fullitem_advancements_1_20.zip
 4. Inicia el mundo y todo estará listo para vivir nuevas aventuras.
 
+
+## Contacto
+
+Si tienes alguna pregunta, contáctame en Twitter: [@fullItemsMc](https://twitter.com/fullItemsMc).
+
 ---
 
 __Proyecto desarrollado 100% por un humano. 0% IA.__
