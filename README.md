@@ -3,10 +3,12 @@ Consigue todos los items de Minecraft y visualízalo con este datapack. Un logro
 
 Un reto con muchas aventuras.
 
-![](imagenes/flayer.png)
+<p align="center">
+  <img src="imagenes/flayer.png" alt="Texto alternativo" style="width:50%;">
+</p>
 
 ## Descripción
-Este datapack posee las funciones necesarias para tener un Advancements por cada item de Minecraft. Incluye conteo y visualización de los items conseguidos y de los restantes. El total de estos logros en la primera versión son; **1148 items**.
+Este datapack posee las funciones necesarias para tener **un logro por cada item de Minecraft**. Incluye conteo y visualización de los items conseguidos y de los restantes. El total de estos logros en la primera versión son; **1148 items**.
 
 Se puede jugar en multijugador y sigleplayer. 
 
