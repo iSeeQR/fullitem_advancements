@@ -128,6 +128,8 @@ Gracias al proceso Java creado se procura un **soporte y mantenimiento** del dat
 
 
 ## Descripción concurso
+Map Jam Hispana: Comandos Creativos 2023
+
 [Bases de concurso](https://www.patreon.com/posts/86402247)
 - Una frase de qué es lo que más te gusta de lo que has creado:
 
