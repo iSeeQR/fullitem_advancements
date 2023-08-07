@@ -146,7 +146,7 @@ Map Jam Hispana: Comandos Creativos 2023
 ## Speed Run
 ¿Cúanto tiempo tardas en conseguir todos los ítems de Minecraft?
 
-| Jugador | Tiempo | Vídeo | Versión |
+| Jugador | Tiempo | Vídeo/Serie | Versión |
 |---------|--------|-------|---------|
 |     |    |  |    |
 |    |    |  |    |
