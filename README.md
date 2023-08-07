@@ -16,7 +16,7 @@ Se puede jugar en multijugador y sigleplayer.
 
 
 ## Descargas
-- Datadack en github [Descargar pulsando en download](https://github.com/iSeeQR/fullítem_advancements/blob/main/descargas/fullítem_advancements_1_20.zip)
+- Datadack en github [Descargar pulsando en download](https://github.com/iSeeQR/fullitem_advancements/blob/main/descargas/fullitem_advancements_1_20.zip)
 - Datadack [Drive](https://drive.google.com/file/d/1EnOIU2QD-jJFW2aaZKJhFLgtvGSCvZ9j/view?usp=drive_link)
 - MapJamRichMaps [Drive](https://drive.google.com/file/d/1oxZULKsCVq-iL0I0GLAwALWOWfY4Xu1v/view?usp=drive_link)
   
