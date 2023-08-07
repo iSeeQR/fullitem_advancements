@@ -127,8 +127,6 @@ Gracias al proceso Java creado se procura un **soporte y mantenimiento** del dat
 1. Se ha testeado el logro de cada ítem
 2. Se ha testeado la aparición de la recompensa al conseguir todos los ítems
 
-
-
 ## Descripción concurso
 Map Jam Hispana: Comandos Creativos 2023
 
@@ -142,6 +140,24 @@ Map Jam Hispana: Comandos Creativos 2023
 - Una frase de qué añadirías si tuvieses quince días más.
   
     Añadir los ítems que faltan. Las flechas encantadas, pociones, libros encantados... Hay que dedicarle tiempo a estos ítems ya que su diferenciación no es sencilla. En 15 días sería mi objetivo principal.
+
+
+
+## Speed Run
+¿Cúanto tiempo tardas en conseguir todos los ítems de Minecraft?
+
+| Jugador | Tiempo | Vídeo | Versión |
+|---------|--------|-------|---------|
+|     |    |  |    |
+|    |    |  |    |
+|   |    |  |    |
+
+<p align="center">
+  <img src="imagenes/flayerspeedrun.png" style="width:50%;">
+</p>
+
+
+
 
 
 ## Como instalar un datapack
@@ -159,4 +175,4 @@ Si tienes alguna pregunta, contáctame en Twitter: [@fullItemsMc](https://twitte
 
 __Proyecto desarrollado 100% por un humano. 0% IA.__
 
-
+---
