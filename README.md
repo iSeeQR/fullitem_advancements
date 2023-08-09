@@ -164,7 +164,7 @@ Gracias al proceso Java creado se procura un **soporte y mantenimiento** del dat
 1. Se ha testeado el logro de cada ítem
 2. Se ha testeado la aparición de la recompensa al conseguir todos los ítems
 3. Se ha testeado que el contador llegue a cero cuando se consigan todos los ítems
-4. Se ha testeado que se dispare un logro con el ítem de un mod. Ejemplo: conquest:slate
+4. Se ha testeado que el datapack dispare un logro con el ítem de un mod. Ejemplo: conquest:slate
 
 
 
