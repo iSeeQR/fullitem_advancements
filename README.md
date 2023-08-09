@@ -34,20 +34,20 @@ El mundo de MapJamRichMaps es para testeo. El **datapack** se ha creado **para m
 
   
 ## Índice
- [Descripción](#Descripción)
- [Descarga](#Descarga)
- [Descripción general](#Descripción-general)
- [Recompensa](#Recompensa)
- [Otras ventajas](#Otras-ventajas)
- [Descripción técnica](#Descripción-técnica)
- [Generación datapack](#Generación-datapack)
- [Mantenimiento y soporte](#Mantenimiento-y-soporte)
- [RoadMap](#RoadMap)
- [Testeo](#Testeo)
- [Descripción concurso](#Descripción-concurso)
- [Speed Run](#SpeedRun)
- [Como instalar un datapack](#Como-instalar-un-datapack)
- [Contacto](#Contacto)
+- [Descripción](#Descripción)
+- [Descarga](#Descarga)
+- [Descripción general](#Descripción-general)
+- [Recompensa](#Recompensa)
+- [Otras ventajas](#Otras-ventajas)
+- [Descripción técnica](#Descripción-técnica)
+- [Generación datapack](#Generación-datapack)
+- [Mantenimiento y soporte](#Mantenimiento-y-soporte)
+- [RoadMap](#RoadMap)
+- [Testeo](#Testeo)
+- [Descripción concurso](#Descripción-concurso)
+- [Speed Run](#SpeedRun)
+- [Como instalar un datapack](#Como-instalar-un-datapack)
+- [Contacto](#Contacto)
 
 
 ## Descripción general
